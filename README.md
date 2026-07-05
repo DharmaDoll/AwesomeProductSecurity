@@ -1,1 +1,1 @@
-# AwosomeProductSecurity
+# AwesomeProductSecurity
